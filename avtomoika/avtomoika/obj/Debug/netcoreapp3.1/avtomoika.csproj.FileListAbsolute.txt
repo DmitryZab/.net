@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.exe
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.deps.json
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.runtimeconfig.json
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.dll
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\bin\Debug\netcoreapp3.1\avtomoika.pdb
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.dll
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.pdb
+C:\Users\ACER\Desktop\Лабы(2 курс)\c#\avtomoika\avtomoika\obj\Debug\netcoreapp3.1\avtomoika.genruntimeconfig.cache

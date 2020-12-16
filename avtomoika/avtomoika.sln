@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avtomoika", "avtomoika\avtomoika.csproj", "{09BEBE88-4F37-4F06-8A93-C1A63E115C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BEBE88-4F37-4F06-8A93-C1A63E115C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BEBE88-4F37-4F06-8A93-C1A63E115C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BEBE88-4F37-4F06-8A93-C1A63E115C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BEBE88-4F37-4F06-8A93-C1A63E115C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E584F0A1-1AB9-4439-85BC-5F5D3D9C1E74}
+	EndGlobalSection
+EndGlobal
